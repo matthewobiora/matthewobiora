@@ -8,7 +8,6 @@ I am currently a senior at Towson University, where I am majoring in Information
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field with the hope of making the environment a safer place for all.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
