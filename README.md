@@ -13,7 +13,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 |-----------------------------------------------|----------------------------|
 | Honey pot creation                             | <a href="https://github.com/matthewobiora/Honey-pot-">Honey Pot</a>|
 | Malware Analysis lab                            | <a href="https://github.com/matthewobiora/Malware-analysis-lab">Malware Analysis Lab</a>|
-| Risk Assesment                                  | <a href="https://https://github.com/matthewobiora/Risk-Assessment-Report-">Risk Assesment Report</a>|
+| Risk Assesment                                  | <a href="https://github.com/matthewobiora/Risk-Assessment-Report-">Risk Assesment Report</a>|
 | Home Lab Setup                                   | <a href="https://github.com/matthewobiora/Home-Lab-Setup">Home Lab Setup</a>|
 
 
@@ -132,6 +132,6 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Projects
 - <a href="https://github.com/matthewobiora/Honey-pot-">Honey Pot</a>: Developed a personal honeypot using Vultr to detect and analyze potential cyber threats.
-- <a href="https://github.com/matthewobiora/Risk-Assessment-Report">Risk Assesment Report</a>: Authored a comprehensive risk assessment on potential APTs and TTPs targeting TFCU, along with recommended mitigations.
+- <a href="https://github.com/matthewobiora/Risk-Assessment-Report-">Risk Assesment Report</a>: Authored a comprehensive risk assessment on potential APTs and TTPs targeting TFCU, along with recommended mitigations.
 - <a href="https://github.com/matthewobiora/Home-Lab-Setup">Home Lab Setup</a>: Established a personal home lab using VirtualBox for testing and development purposes.
 - <a href="https://github.com/matthewobiora/Malware-analysis-lab">Malware Analysis Lab</a>|: Set up a personal malware analysis lab environment using REMnux and conducted analysis on various malware samples.
