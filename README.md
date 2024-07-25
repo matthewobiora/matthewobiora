@@ -11,8 +11,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Honey pot creation                             | <a href="https://github.com/matthewobiora/Honey-pot-">Honey Pot</a>|
-| Malware Analysis lab                            | <a href="https://github.com/matthewobiora/Malware-analysis-lab">Malware Analysis Lab</a>|
+| Detection                            | <a href="https://github.com/matthewobiora/Honey-pot-">Honey Pot</a>|
+| Malware Analysis                             | <a href="https://github.com/matthewobiora/Malware-analysis-lab">Malware Analysis Lab</a>|
 | Risk Assesment                                  | <a href="https://github.com/matthewobiora/Risk-Assessment-Report-">Risk Assesment Report</a>|
 | Home Lab Setup                                   | <a href="https://github.com/matthewobiora/Home-Lab-Setup-">Home Lab Setup</a>|
 
