@@ -135,4 +135,6 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - <a href="https://github.com/matthewobiora/Honey-pot-">Honey Pot</a>: Developed a personal honeypot using Vultr to detect and analyze potential cyber threats.
 - <a href="https://github.com/matthewobiora/Risk-Assessment-Report-">Risk Assesment Report</a>: Authored a comprehensive risk assessment on potential APTs and TTPs targeting TFCU, along with recommended mitigations.
 - <a href="https://github.com/matthewobiora/Home-Lab-Setup-">Home Lab Setup</a>: Established a personal home lab using VirtualBox for testing and development purposes.
-- <a href="https://github.com/matthewobiora/Malware-analysis-lab">Malware Analysis Lab</a>|: Set up a personal malware analysis lab environment using REMnux and conducted analysis on various malware samples.
+- <a href="https://github.com/matthewobiora/Malware-analysis-lab">Malware Analysis Lab</a>: Set up a personal malware analysis lab environment using REMnux and conducted analysis on various malware samples.
+- <a href="https://github.com/matthewobiora/Active-Directory">Active Directory</a>:  Configured and setup an Active Directory environment using Sysmon, Splunk, and Kali Linux, enhancing system monitoring, threat detection, and vulnerability assessmen
+-  <a href="https://github.com/matthewobiora/Phishing-Playbook-">Phishing Playbook</a>: Conducted research on phishing tactics and integrated the best practices into the playbook with a well descriptive diagram on the steps to that would be taken.
