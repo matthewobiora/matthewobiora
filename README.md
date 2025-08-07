@@ -2,7 +2,8 @@
 <a href="https://www.linkedin.com/in/uche-obiora-058631217/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am currently a senior at Towson University, where I am majoring in Information Technology, aiming to further expand my knowledge and skills in Cyber Security.
+Seeking cybersecurity opportunities where I can leverage my hands-on experience in cybersecurity and information technology
+across financial institutions, nonprofit organizations, and tech companies
 
 ## Objective
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field with the hope of making the environment a safer place for all.
@@ -17,6 +18,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Virtualization/System Aministration                                   | <a href="https://github.com/matthewobiora/Home-Lab-Setup">Home Lab Setup</a>|
 | Security Operations/Network Administration                             | <a href="https://github.com/matthewobiora/Active-Directory">Active Directory</a>|                      
 |Incident Response/Risk Management                | <a href="https://github.com/matthewobiora/Phishing-Playbook-">Phishing Playbook</a>|   
+
 
 ## Tools
 
