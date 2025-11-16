@@ -17,12 +17,12 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Detection                            | <a href="https://github.com/matthewobiora/Honey-pot-">Honey Pot</a>|
+|Threat Detection                            | <a href="https://github.com/matthewobiora/Honey-pot-">Honey Pot</a>|
 | Malware Analysis                             | <a href="https://github.com/matthewobiora/Malware-analysis-lab">Malware Analysis Lab</a>|
-| Risk Assesment                                  | <a href="https://github.com/matthewobiora/Risk-Assessment-Report-">Risk Assesment Report</a>|
+| Risk Management                                  | <a href="https://github.com/matthewobiora/Risk-Assessment-Report-">Risk Assesment Report</a>|
 | Virtualization/System Aministration                                   | <a href="https://github.com/matthewobiora/Home-Lab-Setup">Home Lab Setup</a>|
-| Security Operations/Network Administration                             | <a href="https://github.com/matthewobiora/Active-Directory">Active Directory</a>|                      
-|Incident Response/Risk Management                | <a href="https://github.com/matthewobiora/Phishing-Playbook-">Phishing Playbook</a>|   
+| Security Operations/Network Administration                             | <a href="https://github.com/matthewobiora/Active-Directory">Incident Triage Lab</a>|                      
+|Incident Response                | <a href="https://github.com/matthewobiora/Phishing-Playbook-">Phishing Playbook</a>|   
 
 
 ## Tools
