@@ -122,8 +122,6 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 
 
-## Certifications
-
 
 
 <h2>Certifications</h2>
