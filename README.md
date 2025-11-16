@@ -13,6 +13,12 @@ to translate complex security concepts into actionable business solutions.
 ## Objective
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field with the hope of making the environment a safer place for all.
 
+### Publications
+- 📝 **Stablecoins, Crypto, and Quantum Security Risk: Preparing the Banking Sector for What’s Next**  
+  *Published in the American Bankers Association Banking Journal*  
+  [Read the Article](https://bankingjournal.aba.com/2025/10/stablecoins-crypto-and-quantum-risk-preparing-the-banking-sector-for-whats-next/)
+
+
 
 
 ## Tools
