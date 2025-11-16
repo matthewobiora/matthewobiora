@@ -126,16 +126,28 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 
 
-<div>
-    <div style="display: flex; align-items: center;">
-        <a href="file:///C:/Users/matth/Downloads/CompTIA%20Security+%20ce%20certificate.pdf">
-            <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-        </a>
-        <a href="https://www.codepath.org/">
-            <img src="https://img.shields.io/badge/-CodePath.org-4285F4?&style=for-the-badge&logo=CodePath.org&logoColor=white" />
-        </a>
-    </div>
+<div style="display: flex; align-items: center; gap: 10px;">
+
+    <!-- Security+ -->
+    <a href="https://www.credly.com/badges/f6c854f0-ed19-45e9-8f4e-1d3eed51e176/linked_in_profile" target="_blank">
+        <img src="https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+    </a>
+
+    <!-- CySA+ -->
+    <a href="https://www.credly.com/badges/d1d37a7f-8207-40f1-a8c1-23fd19c0d06c/linked_in_profile" target="_blank">
+        <img src="https://img.shields.io/badge/CompTIA%20CySA%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+    </a>
+
+    <!-- CSAP -->
+    <a href="https://www.credly.com/badges/718054e8-b007-4f7c-8c77-4c499e3c71a5/linked_in_profile" target="_blank">
+        <img src="https://img.shields.io/badge/CompTIA%20CSAP-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+    </a>
+
+    <!-- CodePath (no link) -->
+    <img src="https://img.shields.io/badge/CodePath-28A745?style=for-the-badge&logo=codepath&logoColor=white" />
+
 </div>
+
 
 
 ## Projects
