@@ -2,8 +2,13 @@
 <a href="https://www.linkedin.com/in/uche-obiora-058631217/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Seeking cybersecurity opportunities where I can leverage my hands-on experience in cybersecurity and information technology
-across financial institutions, nonprofit organizations, and tech companies
+Cybersecurity analyst with hands-on experience in threat detection, SIEM administration, and vulnerability
+assessment across financial services and nonprofit organizations. Proven track record of reducing incident response
+times and system risks through effective use of Splunk, Carbon Black, and security awareness initiatives. Skilled in
+malware analysis, penetration testing, and Active Directory security with published research on quantum computing
+threats. Strong technical foundation in multiple security tools and programming languages, with demonstrated ability
+to translate complex security concepts into actionable business solutions.
+
 
 ## Objective
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field with the hope of making the environment a safer place for all.
