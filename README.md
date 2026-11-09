@@ -42,11 +42,11 @@ I care about turning complex security topics into clear, actionable guidance, wh
 | 🎤 **Cybersecurity Update: Threat Intelligence Briefing** | Presented for the *American Bankers Association* at the *Maryland Bankers Association*, Aug 6, 2025. Post-event feedback showed a **25% improvement** in incident response preparedness. |
 
 <p align="center">
-  <img src="images/mba-2025-podium.jpg" alt="Uche Obiora at the Maryland Bankers Association podium before the Cybersecurity Update briefing" height="230"/>
+  <img src="images/mba-2025-podium.jpg" alt="Uche Obiora with John Carlson, SVP of Cybersecurity at the American Bankers Association, at the Maryland Bankers Association podium" height="230"/>
   <img src="images/mba-2025-presenting.jpg" alt="Uche Obiora presenting threat intelligence to Maryland bankers" height="230"/>
   <img src="images/mba-2025-agenda.jpg" alt="Uche Obiora walking through the briefing agenda" height="230"/>
   <br>
-  <sub>🎤 Delivering the <b>Cybersecurity Update</b> briefing to Maryland bank leaders · Maryland Bankers Association, August 2025</sub>
+  <sub>🎤 Delivering the <b>Cybersecurity Update</b> briefing to Maryland bank leaders, with <b>John Carlson</b>, SVP of Cybersecurity at the American Bankers Association · Maryland Bankers Association, August 2025</sub>
 </p>
 
 ---
