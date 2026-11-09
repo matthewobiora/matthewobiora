@@ -3,12 +3,13 @@
 # Hi, I'm Uche Obiora 👋
 
 <a href="https://github.com/matthewobiora">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=640&lines=Security+Research+Analyst+%40+SACR;Threat+Detection+%7C+SIEM+%7C+AI-Driven+SecOps;Published+in+the+ABA+Banking+Journal;CompTIA+Security%2B+%7C+CySA%2B+%7C+CSAP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=640&lines=Security+Research+Analyst+%40+SACR;Published+on+SACR+%26+ABA+Banking+Journal;Threat+Detection+%7C+SIEM+%7C+AI-Driven+SecOps;CompTIA+Security%2B+%7C+CySA%2B+%7C+CSAP" alt="Typing SVG" />
 </a>
 
 <p>
   <a href="https://www.linkedin.com/in/uche-obiora-058631217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:matthewobiora38@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://softwareanalyst.substack.com/p/the-siem-problem-has-become-an-architecture"><img src="https://img.shields.io/badge/Read-SIEM_Research_(SACR)-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="SACR article"/></a>
   <a href="https://bankingjournal.aba.com/2025/10/stablecoins-crypto-and-quantum-risk-preparing-the-banking-sector-for-whats-next/"><img src="https://img.shields.io/badge/Read_my_article-ABA_Banking_Journal-002D72?style=for-the-badge&logo=readthedocs&logoColor=white" alt="ABA Banking Journal article"/></a>
 </p>
 
@@ -35,6 +36,7 @@ I care about turning complex security topics into clear, actionable guidance, wh
 
 | | |
 |---|---|
+| 📝 **[The SIEM Problem Has Become an Architecture Problem](https://softwareanalyst.substack.com/p/the-siem-problem-has-become-an-architecture)** | *Software Analyst Cyber Research (SACR)*, Oct 2026. Looks at how rising data costs, distributed security evidence, and AI-driven investigations are reshaping the SIEM market, and introduces SACR's **Modern SIEM Architecture Models (MSAM)** framework. |
 | 📝 **[Stablecoins, Crypto, and Quantum Risk: Preparing the Banking Sector for What's Next](https://bankingjournal.aba.com/2025/10/stablecoins-crypto-and-quantum-risk-preparing-the-banking-sector-for-whats-next/)** | *ABA Banking Journal*, Oct 2025. Explains quantum and crypto-asset risk for **2,000+ banking professionals** nationwide. |
 | 🎤 **Cyber Threat Intelligence Briefing** | Presented at a *Maryland Bankers Association* event. Post-event feedback showed a **25% improvement** in incident response preparedness. |
 
