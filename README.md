@@ -8,6 +8,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/uche-obiora-058631217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://substack.com/@uche222"><img src="https://img.shields.io/badge/Substack-@uche222-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a>
   <a href="mailto:matthewobiora38@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://softwareanalyst.substack.com/p/the-siem-problem-has-become-an-architecture"><img src="https://img.shields.io/badge/Read-SIEM_Research_(SACR)-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="SACR article"/></a>
   <a href="https://bankingjournal.aba.com/2025/10/stablecoins-crypto-and-quantum-risk-preparing-the-banking-sector-for-whats-next/"><img src="https://img.shields.io/badge/Read_my_article-ABA_Banking_Journal-002D72?style=for-the-badge&logo=readthedocs&logoColor=white" alt="ABA Banking Journal article"/></a>
@@ -36,7 +37,7 @@ I care about turning complex security topics into clear, actionable guidance, wh
 
 | | |
 |---|---|
-| 📝 **[The SIEM Problem Has Become an Architecture Problem](https://softwareanalyst.substack.com/p/the-siem-problem-has-become-an-architecture)** | *Software Analyst Cyber Research (SACR)*, Oct 2026. Looks at how rising data costs, distributed security evidence, and AI-driven investigations are reshaping the SIEM market, and introduces SACR's **Modern SIEM Architecture Models (MSAM)** framework. |
+| 📝 **[The SIEM Problem Has Become an Architecture Problem](https://softwareanalyst.substack.com/p/the-siem-problem-has-become-an-architecture)** | *Software Analyst Cyber Research (SACR)*, Oct 2026. Looks at how rising data costs, distributed security evidence, and AI-driven investigations are reshaping the SIEM market, and introduces my **[Modern SIEM Architecture Models (MSAM)](https://github.com/matthewobiora/MSAM-Framework)** framework. |
 | 📝 **[Stablecoins, Crypto, and Quantum Risk: Preparing the Banking Sector for What's Next](https://bankingjournal.aba.com/2025/10/stablecoins-crypto-and-quantum-risk-preparing-the-banking-sector-for-whats-next/)** | *ABA Banking Journal*, Oct 2025. Explains quantum and crypto-asset risk for **2,000+ banking professionals** nationwide. |
 | 🎤 **Cyber Threat Intelligence Briefing** | Presented at a *Maryland Bankers Association* event. Post-event feedback showed a **25% improvement** in incident response preparedness. |
 
@@ -71,6 +72,7 @@ I care about turning complex security topics into clear, actionable guidance, wh
 
 | Project | What I Did | Tools |
 |---|---|---|
+| 🧠 **[MSAM: Modern SIEM Architecture Models](https://github.com/matthewobiora/MSAM-Framework)** ⭐ | Created a framework that classifies SIEM architectures by where control sits (Converged, Observability, Pipeline, Data Platform, Federated), with a decision guide and POC checklist for SOC teams | SIEM, Security Data Architecture, AI SOC |
 | 🔍 **[Active Directory SOC Lab](https://github.com/matthewobiora/Active-Directory)** | Built an AD domain with Splunk telemetry, simulated brute-force and Atomic Red Team attacks, and triaged the resulting events | Splunk, Sysmon, Windows Server, Kali, Atomic Red Team |
 | 🍯 **[Cloud Honeypot with T-Pot](https://github.com/matthewobiora/Honey-pot-)** | Deployed a multi-honeypot platform on a public cloud server to capture and analyze live attack traffic | T-Pot, Vultr, Kibana, Elasticsearch, CyberChef |
 | 🧭 **[APT Risk Assessment (MITRE ATT&CK)](https://github.com/matthewobiora/Risk-assesment)** | Screened 41 financial-sector and 31 government-sector APT groups, then mapped the top financial- and government-sector threats to critical TTPs and defenses | MITRE ATT&CK Navigator, Threat Intel |
@@ -153,6 +155,6 @@ I care about turning complex security topics into clear, actionable guidance, wh
 ### 🤝 Let's connect
 
 I'm always happy to talk threat detection, security research, or opportunities.<br>
-**[Connect on LinkedIn](https://www.linkedin.com/in/uche-obiora-058631217/)** · **[Email me](mailto:matthewobiora38@gmail.com)**
+**[Connect on LinkedIn](https://www.linkedin.com/in/uche-obiora-058631217/)** · **[Read my Substack](https://substack.com/@uche222)** · **[Email me](mailto:matthewobiora38@gmail.com)**
 
 </div>
