@@ -39,7 +39,15 @@ I care about turning complex security topics into clear, actionable guidance, wh
 |---|---|
 | 📝 **[The SIEM Problem Has Become an Architecture Problem](https://softwareanalyst.substack.com/p/the-siem-problem-has-become-an-architecture)** | *Software Analyst Cyber Research (SACR)*, Oct 2026. Looks at how rising data costs, distributed security evidence, and AI-driven investigations are reshaping the SIEM market, and introduces my **[Modern SIEM Architecture Models (MSAM)](https://github.com/matthewobiora/MSAM-Framework)** framework. |
 | 📝 **[Stablecoins, Crypto, and Quantum Risk: Preparing the Banking Sector for What's Next](https://bankingjournal.aba.com/2025/10/stablecoins-crypto-and-quantum-risk-preparing-the-banking-sector-for-whats-next/)** | *ABA Banking Journal*, Oct 2025. Explains quantum and crypto-asset risk for **2,000+ banking professionals** nationwide. |
-| 🎤 **Cyber Threat Intelligence Briefing** | Presented at a *Maryland Bankers Association* event. Post-event feedback showed a **25% improvement** in incident response preparedness. |
+| 🎤 **Cybersecurity Update: Threat Intelligence Briefing** | Presented for the *American Bankers Association* at the *Maryland Bankers Association*, Aug 6, 2025. Post-event feedback showed a **25% improvement** in incident response preparedness. |
+
+<p align="center">
+  <img src="images/mba-2025-podium.jpg" alt="Uche Obiora at the Maryland Bankers Association podium before the Cybersecurity Update briefing" height="230"/>
+  <img src="images/mba-2025-presenting.jpg" alt="Uche Obiora presenting threat intelligence to Maryland bankers" height="230"/>
+  <img src="images/mba-2025-agenda.jpg" alt="Uche Obiora walking through the briefing agenda" height="230"/>
+  <br>
+  <sub>🎤 Delivering the <b>Cybersecurity Update</b> briefing to Maryland bank leaders · Maryland Bankers Association, August 2025</sub>
+</p>
 
 ---
 
