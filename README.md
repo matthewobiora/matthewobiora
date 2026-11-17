@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/uche-obiora-058631217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://substack.com/@uche222"><img src="https://img.shields.io/badge/Substack-@uche222-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/></a>
   <a href="mailto:matthewobiora38@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://softwareanalyst.io/reports/identity-policy-enforcement-and-governance"><img src="https://img.shields.io/badge/New-Identity_Research_(SACR)-6E40C9?style=for-the-badge&logo=auth0&logoColor=white" alt="New SACR identity research"/></a>
   <a href="https://softwareanalyst.substack.com/p/the-siem-problem-has-become-an-architecture"><img src="https://img.shields.io/badge/Read-SIEM_Research_(SACR)-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="SACR article"/></a>
   <a href="https://bankingjournal.aba.com/2025/10/stablecoins-crypto-and-quantum-risk-preparing-the-banking-sector-for-whats-next/"><img src="https://img.shields.io/badge/Read_my_article-ABA_Banking_Journal-002D72?style=for-the-badge&logo=readthedocs&logoColor=white" alt="ABA Banking Journal article"/></a>
 </p>
@@ -37,6 +38,7 @@ I care about turning complex security topics into clear, actionable guidance, wh
 
 | | |
 |---|---|
+| 🆕 **[How CISOs Can Extend, Enforce, and Verify Identity Controls](https://softwareanalyst.io/reports/identity-policy-enforcement-and-governance)** | *Software Analyst Cyber Research (SACR)*, Nov 2026. Explains why IAM coverage breaks down at the application layer, and introduces my **Identity Coverage Chain (ICC)**, a five-stage model (Discover → Connect → Govern → Verify → Remediate) for measuring identity controls by **Reach, Control, and Proof**. |
 | 📝 **[The SIEM Problem Has Become an Architecture Problem](https://softwareanalyst.substack.com/p/the-siem-problem-has-become-an-architecture)** | *Software Analyst Cyber Research (SACR)*, Oct 2026. Looks at how rising data costs, distributed security evidence, and AI-driven investigations are reshaping the SIEM market, and introduces my **[Modern SIEM Architecture Models (MSAM)](https://github.com/matthewobiora/MSAM-Framework)** framework. |
 | 📝 **[Stablecoins, Crypto, and Quantum Risk: Preparing the Banking Sector for What's Next](https://bankingjournal.aba.com/2025/10/stablecoins-crypto-and-quantum-risk-preparing-the-banking-sector-for-whats-next/)** | *ABA Banking Journal*, Oct 2025. Explains quantum and crypto-asset risk for **2,000+ banking professionals** nationwide. |
 | 🎤 **Cybersecurity Update: Threat Intelligence Briefing** | Presented for the *American Bankers Association* at the *Maryland Bankers Association*, Aug 6, 2025. Post-event feedback showed a **25% improvement** in incident response preparedness. |
