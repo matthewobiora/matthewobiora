@@ -3,7 +3,7 @@
 # Hi, I'm Uche Obiora 👋
 
 <a href="https://github.com/matthewobiora">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=640&lines=Security+Research+Analyst+%40+SACR;Published+on+SACR+%26+ABA+Banking+Journal;Threat+Detection+%7C+SIEM+%7C+AI-Driven+SecOps;CompTIA+Security%2B+%7C+CySA%2B+%7C+CSAP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=640&lines=Security+Research+Analyst+%40+SACR;Creator+of+the+MSAM+%26+ICC+Frameworks;Published+on+SACR+%26+ABA+Banking+Journal;Threat+Detection+%7C+SIEM+%7C+AI-Driven+SecOps;CompTIA+Security%2B+%7C+CySA%2B+%7C+CSAP" alt="Typing SVG" />
 </a>
 
 <p>
@@ -28,9 +28,21 @@ I'm a **cybersecurity analyst** with hands-on experience in **security monitorin
 I care about turning complex security topics into clear, actionable guidance, whether that's a SOC detection, a risk assessment, or an article read by thousands of banking professionals.
 
 - 🔭 **Currently:** Security Research Analyst at **Software Analyst Cyber Research (SACR)**
+- 🧠 **Created:** the **MSAM** (SIEM architecture) and **ICC** (identity coverage) frameworks
 - 🎓 **Studying:** M.S. in Cybersecurity Operations, University of Maryland Global Campus
 - 🌱 **Exploring:** AI SOC platforms, SIEM architecture, IAM security, post-quantum risk
 - 💬 **Ask me about:** threat intelligence, MITRE ATT&CK, phishing defense, Splunk
+
+---
+
+## 🧠 Frameworks I Created
+
+| | **MSAM**: Modern SIEM Architecture Models | **ICC**: Identity Coverage Chain |
+|---|---|---|
+| **Problem** | SIEM can no longer centralize everything. Where should control over security data sit? | IAM looks "connected" but often can't actually govern application-level access. Where does coverage break? |
+| **Framework** | Classifies SIEM architectures by their **primary control point**:<br>🧩 Converged · 📈 Observability · 🔀 Pipeline-First · 🗄️ Data Platform · 🌐 Federated | A five-stage chain for diagnosing identity coverage gaps:<br>**Discover → Connect → Govern → Verify → Remediate** |
+| **How it's measured** | Four architecture decisions (data location, detection placement, AI agent access, stack ownership) plus POC failure tests | Three executive outcomes:<br>🎯 **Reach**: can we find and interact with the access path?<br>🔒 **Control**: can the intended policy actually be applied?<br>✅ **Proof**: is there trustworthy evidence the intended state holds? |
+| **Read it** | [Part I](https://softwareanalyst.substack.com/p/the-siem-problem-has-become-an-architecture) · [Part II](https://softwareanalyst.io/reports/the-future-of-siem-part-ii-the-five-emerging-siem-architectures) · [📂 GitHub repo](https://github.com/matthewobiora/MSAM-Framework) | [SACR report](https://softwareanalyst.io/reports/identity-policy-enforcement-and-governance) |
 
 ---
 
@@ -73,7 +85,9 @@ I care about turning complex security topics into clear, actionable guidance, wh
 - 🧭 Mapped **APT tactics and techniques with MITRE ATT&CK Navigator** and presented mitigation strategies in risk assessments (Tower FCU)
 - 🔐 Implemented **data loss prevention** with Digital Guardian (Tower FCU)
 - 📊 Supported **segregation of duties testing, access reviews, and audit-ready GRC documentation** in Hyperproof (CareFirst)
-- 🧠 Lead research and vendor evaluations across **SIEM, AI SOC, MDR, identity, and cloud security** for CISO audiences (SACR)
+- 🧠 Created the **Modern SIEM Architecture Models (MSAM)** framework, classifying the SIEM market by architectural control point and applying it to **19 vendors** (SACR)
+- 🪪 Created the **Identity Coverage Chain (ICC)** and the **Reach, Control, Proof** model, which give CISOs a way to measure whether identity controls actually work at the application layer (SACR)
+- 🔬 Lead research and vendor evaluations across **SIEM, AI SOC, MDR, identity, and cloud security** for CISO audiences (SACR)
 
 </details>
 
